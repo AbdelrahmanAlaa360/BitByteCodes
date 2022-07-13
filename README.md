@@ -1,4 +1,4 @@
-# <a href="bitbytecodes.com/codeup">BitByteCodes Freelancing Platform</a>
+# [BitByteCodes Freelancing Platform](https://bitbytecodes.com/codeup)
 
 ## About BitByteCodes
 BitByteCodes is a freelancing platform that connects users to developers to help achieves technical projects, where the user can publish a project with a default budget and developers can offer their offers to complete the project with provided deadline where the project should be delivered through. And the website guarantees the rights of both project owner and project executor, where both parties can chat together in case of more detailed information, with an active team providing live chat support in case of any technical issues.
